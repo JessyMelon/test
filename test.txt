@@ -1,2 +1,25 @@
-hi,all guys,this is the first test file.
-hi,all guys,this is the first test file.
+millipore sigma:
+    Biotherm,
+    Chanel,
+    Za, 
+    Anna Sui
+
+spectrumchemical  :
+    Johnson Johnson, 
+    Estee Lauder, 
+    Unilever, 
+    L'Oreal,
+    Kao Corporation
+
+Croda:
+    Proctor& Gamble
+    L’Oréal
+    Unilever Plc
+    Esteé Lauder
+
+pentapharm:
+    Estee Lauder,
+    Peter Thomas Roth, 
+    Lancome, 
+    L'Oreal
+
